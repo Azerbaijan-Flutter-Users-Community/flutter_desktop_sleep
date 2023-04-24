@@ -1,6 +1,6 @@
 # flutter_desktop_sleep_example
 
-Demonstrates how to use the flutter_desktop_sleep plugin.
+A new Flutter project.
 
 ## Getting Started
 
